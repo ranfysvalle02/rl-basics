@@ -2,7 +2,7 @@
 
 ---
 
-# **Maze Mastery: A Simple Guide to Teaching Computers with Q-Learning**  
+# **Maze Mastery with Q-Learning**  
    
 *Have you ever been lost in a maze and wished for a strategy to find your way out? What if a computer could learn to solve the maze by itself? Let's dive into the exciting world of reinforcement learning and see how we can teach a computer to navigate a maze using Q-learning!*  
    
