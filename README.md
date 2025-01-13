@@ -120,7 +120,38 @@ Set the learning parameters (hyperparameters):
 - **Episodes**: The number of training cycles (set to 1000).  
    
 ---  
-   
+**How the Agent Learns the "Best" Path:**
+
+1. **Exploration and Exploitation:** Initially, the agent explores the maze randomly. It tries different actions (up, down, left, right) and observes the rewards (reaching the goal, hitting walls, etc.). 
+
+2. **Q-Table Updates:** 
+   - Every time the agent takes an action, it updates its Q-table. 
+   - The Q-table stores a value for each state-action pair, representing the expected future reward for taking that action in that state. 
+   - The update rule (the Q-learning formula) gradually refines these values based on the rewards received.
+
+3. **Learning from Rewards:** 
+   - Reaching the goal provides a high reward, reinforcing actions that lead to the goal.
+   - Hitting walls or taking actions that don't progress towards the goal result in penalties (negative rewards).
+
+4. **Finding the Optimal Path:** 
+   - After sufficient training, the agent uses the Q-table to make decisions. 
+   - At each state, it selects the action with the highest Q-value. 
+   - This "greedy" approach guides the agent towards the path with the highest expected cumulative reward, which is essentially the "best" path found through the learning process.
+
+**In simpler terms:**
+
+Imagine the agent is learning to climb a mountain. 
+
+* **Exploration:** It tries different paths, some leading uphill, some leading downhill.
+* **Q-Table:** It keeps track of how much "altitude" (reward) it gains or loses on each path.
+* **Learning:** It gradually learns that certain paths consistently lead to higher altitudes.
+* **Finding the Best Path:** It chooses the path that consistently leads to the highest peak.
+
+**Key Points:**
+
+* The "best" path is not known beforehand. The agent learns it through trial and error and by maximizing rewards.
+* The Q-table acts as the agent's "memory" of which actions are most promising in each situation.
+
 ## **Training the Agent**  
    
 ### **Exploration vs. Exploitation**  
