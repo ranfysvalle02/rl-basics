@@ -1,6 +1,6 @@
 # reinforcement-learning-basics
 
-![](https://miro.medium.com/v2/resize:fit:1400/1*ueJkuVP8fkY8p5nXN2gc7Q.png)
+![](millomario.png)
 
 ---
 
@@ -64,7 +64,9 @@ Think of the Q-table as a big map or memory that tells the agent the best action
 ---  
    
 ## Our Maze Adventure  
-   
+
+![](https://miro.medium.com/v2/resize:fit:1400/1*ueJkuVP8fkY8p5nXN2gc7Q.png)
+
 Let's set up our maze and teach the agent to navigate it!  
    
 ### The Maze Layout  
