@@ -1,6 +1,6 @@
 # reinforcement-learning-basics
 
-![](millomario.png)
+![](q-learn.jpg)
 
 ---
 
