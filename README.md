@@ -1,9 +1,6 @@
 # rl-basics
 
-<p float="left">
-  <img src="life1.webp" width="300"/>
-  <img src="maze1.webp" width="300"/>
-</p>
+![](https://miro.medium.com/v2/resize:fit:1400/1*ueJkuVP8fkY8p5nXN2gc7Q.png)
 
 ---
 
