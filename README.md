@@ -19,7 +19,9 @@ In this guide, we'll explore how reinforcement learning helps a computer (our ro
 ---  
    
 ## What is Reinforcement Learning?  
-   
+
+![](https://changyaochen.github.io/assets/images/reinforcement-learning-fig.jpeg)
+
 Reinforcement learning is like training a pet through rewards and penalties. Suppose you're teaching a dog to sit:  
    
 - **Reward**: When the dog sits on command, you give it a treat.  
