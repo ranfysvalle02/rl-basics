@@ -1,5 +1,6 @@
 # rl-basics
 
+![](https://imgs.search.brave.com/K2D1aMymSMD66OPkxKSblumH207teJb7n_3i6azW-Qk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pMi53/cC5jb20vYmxvZy5l/cGhvcmllLmRlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE5LzA1/L2xhYnlyaW50aF8x/NTU4OTQwOTMzLTg0/MHg0MjAucG5nP3c9/NDUw)
 ---
 
 # **Maze Mastery with Q-Learning**  
