@@ -1,4 +1,4 @@
-# rl-basics
+# reinforcement-learning-basics
 
 ![](https://miro.medium.com/v2/resize:fit:1400/1*ueJkuVP8fkY8p5nXN2gc7Q.png)
 
